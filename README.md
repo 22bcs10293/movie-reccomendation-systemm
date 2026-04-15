@@ -80,7 +80,7 @@ streamlit run app.py
 
 Open browser and go to:
 
-http://localhost:8501
+http://localhost:8505
 
 📂 Project Structure
 Movie-Recommendation-System/
@@ -95,7 +95,7 @@ Movie-Recommendation-System/
 👤 Author
 
 Karan Yadav
-📧 Email: karanyadav04072004@gmail.com
+📧 Email: bhumikawadhwa12b01@gmail.com
 
 🧾 License
 
