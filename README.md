@@ -6,7 +6,7 @@ This application recommends movies similar to a selected movie using a content-b
 🚀 How to Use
 
 Visit the Live App:
-👉 https://movie-recommendation-system-9ezrsmchx2vkw2uyappmr6x.streamlit.app/
+👉 https://movie-reccomendation-systemmgit-kexg2jqffigesdogshkkxy.streamlit.app/
 
 Select a movie from the dropdown list.
 
