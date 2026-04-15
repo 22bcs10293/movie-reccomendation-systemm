@@ -94,7 +94,7 @@ Movie-Recommendation-System/
 
 👤 Author
 
-Karan Yadav
+Bhumika Wadhwa
 📧 Email: bhumikawadhwa12b01@gmail.com
 
 🧾 License
